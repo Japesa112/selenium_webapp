@@ -1,5 +1,5 @@
 # Use the Cypress base image
-FROM cypress/browser:latest
+FROM cypress/browsers:latest
 
 # Install Python and pip
 USER root
